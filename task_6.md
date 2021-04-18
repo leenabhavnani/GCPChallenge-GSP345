@@ -49,7 +49,7 @@ terraform init
 terraform apply
 ```
 
-3.Navigate to the instances module and update the configuration resources to connect tf-instance-1 to subnet-01 and tf-instance-2 to subnet-02.
+3. Navigate to the instances module and update the configuration resources to connect tf-instance-1 to subnet-01 and tf-instance-2 to subnet-02.
 
 **Steps** -
 

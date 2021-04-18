@@ -1,6 +1,6 @@
 ### Task 2. Import infrastructure
 
-1. In the Google Cloud Console, on the Navigation menu, click Compute Engine > VM Instances. Two instances named tf-instance-1 and tf-instance-2 were already created for you.
+1. In the Google Cloud Console, on the **Navigation menu**, click **Compute Engine > VM Instances**. Two instances named **tf-instance-1** and **tf-instance-2** were already created for you.
 
 **Steps** -
 Navigate to Compute Engine > VM Instances. Click on tf-instance-1. Copy the Instance ID.

@@ -60,9 +60,8 @@ Run the following command to import the second instance and replace the `<INSTAN
 
 `terraform import module.instances.google_compute_instance.tf-instance-2 <INSTANCE-ID>`
 
-Once the instances are imported, run the following commands -
+Once the instances are imported, run the following commands and enter `yes` when prompted.
 ```
 terraform plan
 terraform apply
 ```
-Type **yes** at the dialogue after you run the apply command to accept the state changes.
